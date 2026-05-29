@@ -27,8 +27,8 @@ Both repositories use **Git LFS** for binary assets. Clone with `git lfs install
 
 ## Documentation
 
-- [`docs/asset-register-unity.xlsx`](docs/asset-register-unity.xlsx) — Unity build asset register (27 entries)
-- [`docs/asset-register-unreal.xlsx`](docs/asset-register-unreal.xlsx) — Unreal build asset register (30 entries)
+- [`docs/Unity_Asset_Register_VirtualReefExplorer.xlsx`](docs/Unity_Asset_Register_VirtualReefExplorer.xlsx) — Unity build asset register (27 entries)
+- [`docs/Unreal Engine_Asset_Register_VirtualReefExplorer.xlsx`](docs/Unreal%20Engine_Asset_Register_VirtualReefExplorer.xlsx) — Unreal build asset register (30 entries)
 - Design Document — submitted separately as part of Assignment 1
 
 ## Project Overview
